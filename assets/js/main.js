@@ -133,8 +133,7 @@
         return false;
       });
 
-    document.body.style.backgroundColor = '#121212'; // Dark background
-    document.body.style.color = '#ffffff'; // Light text
+    
       
   });      
 
