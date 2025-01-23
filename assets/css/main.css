@@ -30,6 +30,8 @@ body {
   overflow-x: hidden;
   min-height: fit-content;
   max-height: max-content;
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* Light text */
 }
 
 /* social icons start */
@@ -2040,4 +2042,9 @@ button.accordionFAQs i.slidedown.slide-top {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.some-class {
+  background-color: #1e1e1e; /* Darker background for elements */
+  color: #ffffff; /* Light text */
 }

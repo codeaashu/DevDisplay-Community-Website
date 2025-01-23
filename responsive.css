@@ -1,3 +1,8 @@
+body {
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* Light text */
+}
+
 /* only small desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
   #hero-area .contents .head-title {
@@ -290,4 +295,8 @@ left: 30px; */
     display: flex;
     flex-wrap: wrap;
   }
+}
+
+.btn-warning {
+    background-color: #87CEEB; /* Sky blue button */
 }
