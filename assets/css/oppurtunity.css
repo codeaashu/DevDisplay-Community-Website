@@ -1,0 +1,81 @@
+.card {
+  transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  box-shadow: 0px 5px 10px rgba(248, 232, 2, 0.25) ;
+  margin: 3%;
+  min-height: max-content;
+  border-radius: 3rem;
+  flex: 1;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  box-shadow: 0px 5px 25px 4px rgba(246, 185, 1, 0.575) ;
+}
+
+.card-body {
+  border: 5px;
+  border-radius: 5rem;
+}
+
+.card-title {
+  color: black;
+  font-weight: bold;
+  font-size: medium;
+  padding-bottom: 6%;
+  padding-top: 6%;
+  font-family: "Arvo", serif;
+}
+
+li {
+  padding-bottom: 5px;
+  color: #2e2e2e;
+}
+
+.card-img-top {
+  border-radius: 3rem;
+  height:340px; /* Fixed height for images */
+  object-fit: cover; /* Maintain aspect ratio */
+  width: 100%; /* Full width of the card */
+}
+
+.oppurtunity_section {
+  margin-left: 5%;
+  margin-right: 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+.opportunity {
+    padding-right: 50px;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .card {
+        width: 350px;
+        height: 349px;
+    }
+
+    .oppurtunity_section {
+        align-items: center;
+        flex-direction: column;
+        margin: 0;
+    }
+
+}
+
+@media only screen and (max-width: 990px) {
+    .opportunity {
+        padding-right: 0;
+    }
+}
+/* .footer-link:hover{
+ transform: scale(0.7);
+} */
