@@ -19,8 +19,8 @@ const sponsors: SponsorProps[] = [
     name: "GitBookLight",
   },
   {
-    lightLogoUrl: "src/assets/SupportedBy/GoogleForStartups.png",
-    darkLogoUrl: "src/assets/SupportedBy/GoogleForStartups.png",
+    lightLogoUrl: "/src/assets/SupportedBy/GoogleForStartups.png",
+    darkLogoUrl: "/src/assets/SupportedBy/GoogleForStartups.png",
     name: "GoogleForStartups",
   },
   {
