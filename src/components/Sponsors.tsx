@@ -14,23 +14,23 @@ const sponsors: SponsorProps[] = [
     name: "DigitalOcean",
   },
   {
-    lightLogoUrl: "../assets/SupportedBy/GitBookLight.svg",
-    darkLogoUrl: "../assets/SupportedBy/GitBookLight.svg",
+    lightLogoUrl: "../src/assets/SupportedBy/GitBookLight.svg",
+    darkLogoUrl: "../src/assets/SupportedBy/GitBookLight.svg",
     name: "GitBookLight",
   },
   {
-    lightLogoUrl: "../assets/SupportedBy/GoogleForStartups.png",
-    darkLogoUrl: "../assets/SupportedBy/GoogleForStartups.png",
+    lightLogoUrl: "src/assets/SupportedBy/GoogleForStartups.png",
+    darkLogoUrl: "src/assets/SupportedBy/GoogleForStartups.png",
     name: "GoogleForStartups",
   },
   {
-    lightLogoUrl: "../assets/SupportedBy/meltcd.png",
-    darkLogoUrl: "../assets/SupportedBy/meltcd.png",
+    lightLogoUrl: "./src/assets/SupportedBy/meltcd.png",
+    darkLogoUrl: "./src/assets/SupportedBy/meltcd.png",
     name: "meltcd",
   },
   {
-    lightLogoUrl: "../assets/SupportedBy/MicrosoftForStartups.png",
-    darkLogoUrl: "../assets/SupportedBy/MicrosoftForStartups.png",
+    lightLogoUrl: "assets/SupportedBy/MicrosoftForStartups.png",
+    darkLogoUrl: "assets/SupportedBy/MicrosoftForStartups.png",
     name: "MicrosoftForStartups",
   },
   {
@@ -39,13 +39,13 @@ const sponsors: SponsorProps[] = [
     name: "MSME",
   },
   {
-    lightLogoUrl: "../assets/SupportedBy/Notion.png",
-    darkLogoUrl: "../assets/SupportedBy/Notion.png",
+    lightLogoUrl: "/assets/SupportedBy/Notion.png",
+    darkLogoUrl: "/assets/SupportedBy/Notion.png",
     name: "Notion",
   },
   {
-    lightLogoUrl: "../assets/SupportedBy/Peerlist.png",
-    darkLogoUrl: "../assets/SupportedBy/Peerlist.png",
+    lightLogoUrl: ".../assets/SupportedBy/Peerlist.png",
+    darkLogoUrl: ".../assets/SupportedBy/Peerlist.png",
     name: "Peerlist",
   },
   {
