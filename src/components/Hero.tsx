@@ -3,6 +3,7 @@ import { buttonVariants } from "./ui/button";
 import { HeroCards } from "./HeroCards";
 import { DiscordLogoIcon } from "@radix-ui/react-icons";
 import { Badge } from "@/components/ui/badge";
+import ICON from "../assets/DevDisplayLOGO/ICON.png";
 
 export const Hero = () => {
   return (
@@ -13,7 +14,7 @@ export const Hero = () => {
             <Badge variant="live">Live</Badge>
           </span>
           <img
-            src="../assets/DevDisplayLOGO/ICON.png"
+            src={ICON}
             alt="DevDisplay Organization Website"
             className="h-6 w-auto mr-2"
           />
