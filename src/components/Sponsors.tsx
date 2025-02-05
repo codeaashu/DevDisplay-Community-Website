@@ -9,53 +9,53 @@ interface SponsorProps {
 
 const sponsors: SponsorProps[] = [
   {
-    lightLogoUrl: "/src/assets/SupportedBy/DigitalOcean.png",
-    darkLogoUrl: "/src/assets/SupportedBy/DigitalOcean.png",
+    lightLogoUrl: "../assets/SupportedBy/DigitalOcean.png",
+    darkLogoUrl: "../assets/SupportedBy/DigitalOcean.png",
     name: "DigitalOcean",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/GitBookLight.svg",
-    darkLogoUrl: "/src/assets/SupportedBy/GitBookLight.svg",
+    lightLogoUrl: "../assets/SupportedBy/GitBookLight.svg",
+    darkLogoUrl: "../assets/SupportedBy/GitBookLight.svg",
     name: "GitBookLight",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/GoogleForStartups.png",
-    darkLogoUrl: "/src/assets/SupportedBy/GoogleForStartups.png",
+    lightLogoUrl: "../assets/SupportedBy/GoogleForStartups.png",
+    darkLogoUrl: "../assets/SupportedBy/GoogleForStartups.png",
     name: "GoogleForStartups",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/meltcd.png",
-    darkLogoUrl: "/src/assets/SupportedBy/meltcd.png",
+    lightLogoUrl: "../assets/SupportedBy/meltcd.png",
+    darkLogoUrl: "../assets/SupportedBy/meltcd.png",
     name: "meltcd",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/MicrosoftForStartups.png",
-    darkLogoUrl: "/src/assets/SupportedBy/MicrosoftForStartups.png",
+    lightLogoUrl: "../assets/SupportedBy/MicrosoftForStartups.png",
+    darkLogoUrl: "../assets/SupportedBy/MicrosoftForStartups.png",
     name: "MicrosoftForStartups",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/MSME.png",
-    darkLogoUrl: "/src/assets/SupportedBy/MSME.png",
+    lightLogoUrl: "../assets/SupportedBy/MSME.png",
+    darkLogoUrl: "../assets/SupportedBy/MSME.png",
     name: "MSME",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/Notion.png",
-    darkLogoUrl: "/src/assets/SupportedBy/Notion.png",
+    lightLogoUrl: "../assets/SupportedBy/Notion.png",
+    darkLogoUrl: "../assets/SupportedBy/Notion.png",
     name: "Notion",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/Peerlist.png",
-    darkLogoUrl: "/src/assets/SupportedBy/Peerlist.png",
+    lightLogoUrl: "../assets/SupportedBy/Peerlist.png",
+    darkLogoUrl: "../assets/SupportedBy/Peerlist.png",
     name: "Peerlist",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/ProductHunt.png",
-    darkLogoUrl: "/src/assets/SupportedBy/ProductHunt.png",
+    lightLogoUrl: "../assets/SupportedBy/ProductHunt.png",
+    darkLogoUrl: "../assets/SupportedBy/ProductHunt.png",
     name: "ProductHunt",
   },
   {
-    lightLogoUrl: "/src/assets/SupportedBy/Vercel.png",
-    darkLogoUrl: "/src/assets/SupportedBy/Vercel.png",
+    lightLogoUrl: "../assets/SupportedBy/Vercel.png",
+    darkLogoUrl: "../assets/SupportedBy/Vercel.png",
     name: "Vercel",
   },
 ];
