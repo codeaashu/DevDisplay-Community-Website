@@ -9,8 +9,8 @@ interface SponsorProps {
 
 const sponsors: SponsorProps[] = [
   {
-    lightLogoUrl: "./assets/SupportedBy/DigitalOcean.png",
-    darkLogoUrl: "./assets/SupportedBy/DigitalOcean.png",
+    lightLogoUrl: "/src/assets/SupportedBy/DigitalOcean.png",
+    darkLogoUrl: "/src/assets/SupportedBy/DigitalOcean.png",
     name: "DigitalOcean",
   },
   {
