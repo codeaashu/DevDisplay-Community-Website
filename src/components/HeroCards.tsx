@@ -11,6 +11,8 @@ import {
 import { Check, Linkedin, YoutubeIcon, TwitterIcon } from "lucide-react";
 import { LightBulbIcon } from "./Icons";
 import { DiscordLogoIcon, GitHubLogoIcon, InstagramLogoIcon } from "@radix-ui/react-icons";
+import ICON from "../assets/DevDisplayLOGO/ICON.png";
+import Founder from "../assets/profile.png";
 
 export const HeroCards = () => {
   return (
@@ -21,7 +23,7 @@ export const HeroCards = () => {
           <Avatar>
             <AvatarImage
               alt=""
-              src="../assets/profile.png"
+              src={Founder}
             />
             <AvatarFallback>AS</AvatarFallback>
           </Avatar>
@@ -39,7 +41,7 @@ export const HeroCards = () => {
       <Card className="absolute right-[20px] top-4 w-80 flex flex-col justify-center items-center drop-shadow-xl shadow-black/10 dark:shadow-white/10">
         <CardHeader className="mt-8 flex justify-center items-center pb-2">
           <img
-            src="../assets/icon.png"
+            src={ICON}
             alt="user avatar"
             className="absolute grayscale-[0%] -top-12 rounded-full w-24 h-24 aspect-square object-cover"
           />
