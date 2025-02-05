@@ -13,7 +13,7 @@ export const Hero = () => {
             <Badge variant="live">Live</Badge>
           </span>
           <img
-            src="assets/DevDisplayLOGO/ICON.png"
+            src="/assets/DevDisplayLOGO/ICON.png"
             alt="DevDisplay Organization Website"
             className="h-6 w-auto mr-2"
           />
