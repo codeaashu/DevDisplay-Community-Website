@@ -10,7 +10,7 @@ export const Footer = () => {
               href="/"
               className="font-bold text-xl flex items-center"
             >
-              <img src="/src/assets/DevDisplayLOGO/ICON.png" alt="Logo" className="h-10 w-10 mr-2" />
+              <img src="/assets/DevDisplayLOGO/ICON.png" alt="Logo" className="h-10 w-10 mr-2" />
               DevDisplay
           </a>
         </div>
