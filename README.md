@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/assets/icon_trans.png" width="50" alt="Enigma Icon">
-  <h1>Enigma lander</h1>
-  <p>Landing page for Enigma, the Computer Science Club, Mahindra University. Built with</p>
+  <h1>DevDisplay</h1>
+  <p>DevDisplay Community Website</p>
   <p>
     <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" alt="shadcn/ui">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
@@ -11,9 +11,6 @@
   </p>
 </div>
 
-
-
-![enigma-lander](src/assets/enigma-landing.gif)
 
 <a href="https://mu-enigma.org" target="_blank">Visit the site</a>
 
@@ -26,7 +23,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/dipyamanroy/enigma-lander.git
+git clone https://github.com/codeaashu/DevDisplay-Community-Website.git
 ```
 
 2. Go into project
