@@ -23,7 +23,7 @@ interface SociaNetworkslProps {
 
 const teamList: TeamProps[] = [
   {
-    imageUrl: "/src/assets/team/SampleMan.jpg",
+    imageUrl: "/assets/team/SampleMan.jpg",
     name: "Enter Your Name",
     position: "Community Leader",
     socialNetworks: [ 
@@ -46,7 +46,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleWomen.jpg",
+    imageUrl: "/assets/team/SampleWomen.jpg",
     name: "Enter Your Name",
     position: "President",
     socialNetworks: [
@@ -69,7 +69,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleMan.jpg",
+    imageUrl: "/assets/team/SampleMan.jpg",
     name: "Enter Your Name",
     position: "Logistics and Committees Head",
     socialNetworks: [
@@ -92,7 +92,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleWomen.jpg",
+    imageUrl: "/assets/team/SampleWomen.jpg",
     name: "Enter Your Name",
     position: "Social Media Head",
     socialNetworks: [
@@ -115,7 +115,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleMan.jpg",
+    imageUrl: "/assets/team/SampleMan.jpg",
     name: "Enter Your Name",
     position: "Open Source Head",
     socialNetworks: [
@@ -138,7 +138,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleMan.jpg",
+    imageUrl: "/assets/team/SampleMan.jpg",
     name: "Enter Your Name",
     position: "Networking Head",
     socialNetworks: [
@@ -161,7 +161,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleWomen.jpg",
+    imageUrl: "/assets/team/SampleWomen.jpg",
     name: "Enter Your Name",
     position: "Research and Innovation Head",
     socialNetworks: [
@@ -184,7 +184,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleMan.jpg",
+    imageUrl: "/assets/team/SampleMan.jpg",
     name: "Enter Your Name",
     position: "Tech Lead",
     socialNetworks: [
@@ -207,7 +207,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleWomen.jpg",
+    imageUrl: "/assets/team/SampleWomen.jpg",
     name: "Enter Your Name",
     position: "Content Head",
     socialNetworks: [
@@ -230,7 +230,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/src/assets/team/SampleMan.jpg",
+    imageUrl: "/assets/team/SampleMan.jpg",
     name: "Enter Your Name",
     position: "Marketing & Design Head",
     socialNetworks: [
