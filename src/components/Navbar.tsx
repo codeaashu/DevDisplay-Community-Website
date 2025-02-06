@@ -36,6 +36,10 @@ const routeList: RouteProps[] = [
     label: "Meet The Team",
   },
   {
+    href: "#join-our-team",
+    label: "Join The Team",
+  },
+  {
     href: "#faq",
     label: "FAQ",
   },
