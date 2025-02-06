@@ -9,6 +9,7 @@ import { ScrollToTop } from "./components/ScrollToTop";
 import { Services } from "./components/Services";
 import { Sponsors } from "./components/Sponsors";
 import { Team } from "./components/Team";
+import JoinOurTeam from "./components/JoinOurTeam";
 // import { Testimonials } from "./components/Testimonials";
 import "./App.css";
 
@@ -28,6 +29,7 @@ function App() {
               <Features />
               <Services />
               <Team />
+              <JoinOurTeam />
               <FAQ />
               <Footer />
             </>
