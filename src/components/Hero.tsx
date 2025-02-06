@@ -20,7 +20,7 @@ export const Hero = () => {
           DevDisplay
           <span className="ml-2">
             <a href="https://www.devdisplay.org/" target="_blank" rel="noopener noreferrer">
-              <Badge variant="secondary">Visit Organization</Badge>
+              <Badge variant="secondary">Visit Now</Badge>
             </a>
           </span>
         </Badge>
