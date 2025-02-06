@@ -88,6 +88,16 @@ export const Footer = () => {
               Meet The Team
             </a>
           </div>
+
+          <div>
+            <a
+              rel="noreferrer noopener"
+              href="#join-our-team"
+              className="opacity-60 hover:opacity-100"
+            >
+              Join The Team
+            </a>
+          </div>
         </div>
 
         <div className="flex flex-col gap-2">
@@ -119,6 +129,16 @@ export const Footer = () => {
               className="opacity-60 hover:opacity-100"
             >
               Whatsapp
+            </a>
+          </div>
+
+          <div>
+            <a
+              rel="noreferrer noopener"
+              href="https://github.com/codeaashu/DevDisplay/discussions"
+              className="opacity-60 hover:opacity-100"
+            >
+              Github Discussions
             </a>
           </div>
 
