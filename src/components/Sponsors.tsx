@@ -1,8 +1,6 @@
 import Marquee from "react-fast-marquee";
 
 const sponsors = [
-  "/assets/SupportedBy/DigitalOcean.png",
-  "/assets/SupportedBy/GitBookLight.svg",
   "/assets/SupportedBy/GoogleForStartups.png",
   "/assets/SupportedBy/meltcd.png",
   "/assets/SupportedBy/MicrosoftForStartups.png",
@@ -11,6 +9,8 @@ const sponsors = [
   "/assets/SupportedBy/Peerlist.png",
   "/assets/SupportedBy/ProductHunt.png",
   "/assets/SupportedBy/Vercel.png",
+  "/assets/SupportedBy/DigitalOcean.png",
+  "/assets/SupportedBy/GitBookLight.svg",
 ];
 
 export const Sponsors = () => {
