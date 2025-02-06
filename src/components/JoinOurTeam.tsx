@@ -3,17 +3,17 @@ import React from "react"; // eslint-disable-line no-unused-vars
 const JoinOurTeam = () => {
   const joinOptions = [
     {
-      imageUrl: "/assets/JoinOurTeam/CoreTeam.png",
+      imageUrl: "/assets/comingsoon.png",
       title: "Join our Core Team",
       link: "#",
     },
     {
-      imageUrl: "/assets/JoinOurTeam/MentorTeam.png",
+      imageUrl: "/assets/comingsoon.png",
       title: "Join Our Mentor Team",
       link: "#",
     },
     {
-      imageUrl: "/assets/JoinOurTeam/VolunteerTeam.png",
+      imageUrl: "/assets/comingsoon.png",
       title: "Join Our Volunteer Team",
       link: "#",
     },
