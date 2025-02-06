@@ -138,7 +138,7 @@ export const Footer = () => {
               href="https://github.com/codeaashu/DevDisplay/discussions"
               className="opacity-60 hover:opacity-100"
             >
-              Github Discussions
+              Discussions
             </a>
           </div>
 
