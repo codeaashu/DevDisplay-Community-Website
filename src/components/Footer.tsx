@@ -127,9 +127,13 @@ export const Footer = () => {
 
       <section className="container pb-14 text-center">
         <h3>
-          &copy; 2025 DevDisplay, Global Tech Hub
+          &copy; 2025
+          <a href="https://www.devdisplay.org" className="text-primary hover:underline">
+             <span> DevDisplay </span>
+          </a>
+          All Rights Reserved
         </h3>
-      </section>
+</section>
     </footer>
   );
 };

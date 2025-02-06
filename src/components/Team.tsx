@@ -279,14 +279,14 @@ export const Team = () => {
       id="team"
       className="container py-24 sm:py-32"
     >
-      <h2 className="text-3xl md:text-4xl font-bold">
+      <h2 className="text-center text-3xl md:text-4xl font-bold">
       Who
         <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
         {" "}We Are{" "}
         </span>
       </h2>
 
-      <p className="mt-4 mb-10 text-xl text-muted-foreground">
+      <p className="text-center mt-4 mb-10 text-xl text-muted-foreground">
         Meet the Team for 2025
       </p>
 
