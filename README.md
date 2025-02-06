@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/assets/icon_trans.png" width="50" alt="Enigma Icon">
+  <img src="/public/assets/DevDisplayLOGO/ICON.png" width="50" alt="Enigma Icon">
   <h1>DevDisplay</h1>
   <p>DevDisplay Community Website</p>
   <p>
@@ -12,7 +12,7 @@
 </div>
 
 
-<a href="https://mu-enigma.org" target="_blank">Visit the site</a>
+<a href="https://www.devdisplay.tech" target="_blank">Visit the site</a>
 
 ## Contents
 - [How to install](#how-to-install)
@@ -29,7 +29,7 @@ git clone https://github.com/codeaashu/DevDisplay-Community-Website.git
 2. Go into project
 
 ```bash
-cd enigma-lander
+cd DevDisplay-Community-Website
 ```
 
 3. Install dependencies
