@@ -1,5 +1,4 @@
 import { Statistics } from "./Statistics";
-import ICON from "../assets/DevDisplayLOGO/ICON.png";
 
 export const About = () => {
   return (
@@ -10,7 +9,7 @@ export const About = () => {
       <div className="bg-muted/50 border rounded-lg py-12">
         <div className="px-6 flex flex-col-reverse md:flex-row gap-8 md:gap-12">
           <img
-            src={ICON}
+            src="/assets/DevDisplayLOGO/ICON.png"
             alt=""
             className="w-[300px] object-contain rounded-lg"
           />
