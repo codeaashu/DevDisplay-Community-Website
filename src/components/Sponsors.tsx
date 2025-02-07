@@ -20,7 +20,17 @@ export const Sponsors = () => {
         Supported By
       </h2>
 
+      {/* Right to Left Scrolling */}
       <Marquee gradient={false} speed={60} pauseOnHover={true} loop={0}>
+        {sponsors.map((logoUrl, index) => (
+          <div key={index} className="flex items-center gap-16 px-8">
+            <img src={logoUrl} alt={`Sponsor ${index + 1}`} className="h-20 w-21" />
+          </div>
+        ))}
+      </Marquee>
+
+      {/* Left to Right Scrolling */}
+      <Marquee gradient={false} speed={60} pauseOnHover={true} loop={0} direction="right">
         {sponsors.map((logoUrl, index) => (
           <div key={index} className="flex items-center gap-16 px-8">
             <img src={logoUrl} alt={`Sponsor ${index + 1}`} className="h-20 w-21" />
