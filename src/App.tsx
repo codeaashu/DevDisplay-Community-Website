@@ -10,6 +10,8 @@ import { Services } from "./components/Services";
 import { Sponsors } from "./components/Sponsors";
 import { Team } from "./components/Team";
 import JoinOurTeam from "./components/JoinOurTeam";
+import Contributors from "./components/Contributors";
+import JoinTheCommunity from "./components/JoinTheCommunity";
 // import { Testimonials } from "./components/Testimonials";
 import "./App.css";
 
@@ -31,6 +33,8 @@ function App() {
               <Team />
               <JoinOurTeam />
               <FAQ />
+              <Contributors />
+              <JoinTheCommunity />
               <Footer />
             </>
           }

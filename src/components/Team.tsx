@@ -25,7 +25,7 @@ const teamList: TeamProps[] = [
   {
     imageUrl: "/assets/team/SampleMan.jpg",
     name: "Enter Your Name",
-    position: "Community Leader",
+    position: "Community Leader / President",
     socialNetworks: [ 
       {
         name: "Instagram",
@@ -48,7 +48,7 @@ const teamList: TeamProps[] = [
   {
     imageUrl: "/assets/team/SampleWomen.jpg",
     name: "Enter Your Name",
-    position: "President",
+    position: "Community Manager",
     socialNetworks: [
       {
         name: "Instagram",
