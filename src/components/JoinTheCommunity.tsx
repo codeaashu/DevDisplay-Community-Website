@@ -1,7 +1,7 @@
 import { Card, CardHeader, CardTitle, CardFooter, CardContent } from "@/components/ui/card";
 import { buttonVariants } from "@/components/ui/button";
 // import { Button, buttonVariants } from "@/components/ui/button";
-import { FaWhatsapp } from "react-icons/fa"; 
+// import { FaWhatsapp } from "react-icons/fa"; 
 import { InstagramLogoIcon } from "@radix-ui/react-icons";
 import { Linkedin, TwitterIcon } from "lucide-react";
 import "./JoinTheCommunity.css"; 
@@ -34,7 +34,7 @@ const JoinTheCommunity = () => {
                 </a>
               </Button> */}
               <div className="flex mt-2">
-                <a
+                {/* <a
                   rel="noreferrer noopener"
                   href="https://chat.whatsapp.com/Dcl21sgGDIpHURESSuH0p4"
                   target="_blank"
@@ -45,7 +45,7 @@ const JoinTheCommunity = () => {
                 >
                   <span className="sr-only">WhatsApp icon</span>
                   <FaWhatsapp className="w-5 h-5" />
-                </a>
+                </a> */}
                 <a
                   rel="noreferrer noopener"
                   href="https://instagram.com/devdisplay"
