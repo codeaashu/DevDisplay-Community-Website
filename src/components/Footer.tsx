@@ -1,4 +1,4 @@
-import { FaEnvelope } from "react-icons/fa";
+// import { FaEnvelope } from "react-icons/fa";
 
 export const Footer = () => {
   return (
@@ -144,13 +144,13 @@ export const Footer = () => {
             </a>
           </div>
         </div>
-        <div className="flex flex-col gap-2">
+        {/* <div className="flex flex-col gap-2">
           <h3 className="font-bold text-lg">Contact with ORG</h3>
           <div className="flex items-center opacity-60">
             <FaEnvelope className="mr-2" />
             <a href="mailto:college.devdisplay@gmail.com" className="hover:underline">team@devdisplay.org</a>
           </div>
-        </div>
+        </div> */}
       </section>
 
       <section className="container pb-14 text-center">
