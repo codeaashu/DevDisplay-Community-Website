@@ -103,7 +103,7 @@ export const Navbar = () => {
                   ))}
                   <a
                     rel="noreferrer noopener"
-                    href="https://github.com/devdisplay/"
+                    href="https://github.com/devdisplay/DevDisplay-Community-Website"
                     target="_blank"
                     className={`w-[110px] border ${buttonVariants({
                       variant: "secondary",
