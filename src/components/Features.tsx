@@ -62,7 +62,7 @@ export const Features = () => {
   return (
     <section
       id="features"
-      className="container text-center py-24 sm:py-32"
+      className="container text-center py-12 sm:py-16"
     >
       <h2 className="text-3xl md:text-4xl font-bold ">
         One Platform {" "}

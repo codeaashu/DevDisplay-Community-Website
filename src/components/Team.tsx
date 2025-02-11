@@ -277,7 +277,7 @@ export const Team = () => {
   return (
     <section
       id="team"
-      className="container py-24 sm:py-32"
+      className="container py-12 sm:py-16"
     >
       <h2 className="text-center text-3xl md:text-4xl font-bold">
       Who
@@ -287,7 +287,7 @@ export const Team = () => {
       </h2>
 
       <p className="text-center mt-4 mb-10 text-xl text-muted-foreground">
-        Meet the Team for 2025
+        Meet the DevDisplay College Name Team for 2025
       </p>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 gap-y-10">

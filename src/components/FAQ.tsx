@@ -14,12 +14,12 @@ interface FAQProps {
 const FAQList: FAQProps[] = [
   {
     question: "How can I join DevDisplay?",
-    answer: "If you're reading this, you're part of DevDisplay. However, if you wish to be contribute to projects and teams, attend events we host and look out for opportunities and callouts shared to your inbox or through our socials.",
+    answer: "You can join DevDisplay by visiting devdisplay.org, or also by connecting with your DevDisplay Campus Community Team, where fellow members will guide you on how to get started and and make a meaningful impact on the global tech ecosystem!",
     value: "item-1",
   },
   {
     question: "How can I become a member of a subcommittee?",
-    answer: "You can apply to join a subcommittee when we announce vacancies at the beginning of each semester. Stay tuned for recruitment updates.",
+    answer: "You can apply to join a subcommittee when we announce vacancies in last of the month. Stay tuned for recruitment updates.",
     value: "item-2",
   },
   {
@@ -38,8 +38,8 @@ const FAQList: FAQProps[] = [
     value: "item-5",
   },
   {
-    question: "What is the Organizing Committee, and how can I join?",
-    answer: "The Organizing Committee is responsible for the club's functioning, including planning and executing events. We hold recruitment every semester depending on vacancies. Keep an eye on our announcements for hiring updates if you’re interested in joining the core team.",
+    question: "What kind of rewards can I win on DevDisplay?",
+    answer: "By participating in DevDisplay programs and events, members can win cash prizes, exclusive goodies, premium stickers, official certificates, and surprise rewards!",
     value: "item-6",
   }
 ];
@@ -48,7 +48,7 @@ export const FAQ = () => {
   return (
     <section
       id="faq"
-      className="container py-24 sm:py-32"
+      className="container py-12 sm:py-16"
     >
       <h2 className="text-3xl md:text-4xl font-bold mb-4">
         Frequently Asked{" "}

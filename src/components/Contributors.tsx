@@ -60,7 +60,7 @@ const contributors: ContributorProps[] = [
 
 const Contributors = () => {
   return (
-    <section id="contributors" className="container pt-24 sm:py-32">
+    <section id="contributors" className="container pt-12 sm:py-32">
       <h2 className="text-center text-3xl md:text-4xl font-bold">
          Campus{" "}
           <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">

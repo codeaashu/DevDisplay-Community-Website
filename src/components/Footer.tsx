@@ -1,9 +1,11 @@
+import { FaEnvelope } from "react-icons/fa";
+
 export const Footer = () => {
   return (
     <footer id="footer">
       <hr className="w-11/12 mx-auto" />
 
-      <section className="container py-20 grid grid-cols-2 md:grid-cols-4 xl:grid-cols-6 gap-x-12 gap-y-8">
+      <section className="container py-20 grid grid-cols-2 md:grid-cols-4 xl:grid-cols-6 gap-x-1 gap-y-8">
         <div className="col-span-full xl:col-span-2">
           <a
               rel="noreferrer noopener"
@@ -141,7 +143,13 @@ export const Footer = () => {
               Discussions
             </a>
           </div>
-
+        </div>
+        <div className="flex flex-col gap-2">
+          <h3 className="font-bold text-lg">Contact with ORG</h3>
+          <div className="flex items-center opacity-60">
+            <FaEnvelope className="mr-2" />
+            <a href="mailto:college.devdisplay@gmail.com" className="hover:underline">team@devdisplay.org</a>
+          </div>
         </div>
       </section>
 
