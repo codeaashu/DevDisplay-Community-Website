@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/assets/DevDisplayLOGO/ICON.png" width="50" alt="Enigma Icon">
+  <img src="/public/assets/DevDisplayLOGO/ICON.png" width="50" alt="DevDisplay Icon">
   <h1>DevDisplay</h1>
   <p>DevDisplay Community Website</p>
   <p>
