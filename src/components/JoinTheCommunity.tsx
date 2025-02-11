@@ -1,6 +1,6 @@
 import { Card, CardHeader, CardTitle, CardFooter, CardContent } from "@/components/ui/card";
 import { buttonVariants } from "@/components/ui/button";
-// import { Button, buttonVariants } from "@/components/ui/button";
+import { Button } from "@/components/ui/button";
 // import { FaWhatsapp } from "react-icons/fa"; 
 import { InstagramLogoIcon } from "@radix-ui/react-icons";
 import { Linkedin, TwitterIcon } from "lucide-react";
@@ -28,24 +28,12 @@ const JoinTheCommunity = () => {
               Join the dynamic hub for tech enthusiasts of College Name! Here, we come together to Connect, Collaborate, Code, Create & Conquer with with global tech innovators. Click to dive in!
             </CardContent>
             <CardFooter className="flex flex-col items-center">
-              {/* <Button asChild>
+              <Button asChild>
                 <a href="https://chat.whatsapp.com/your-whatsapp-group-link" target="_blank" rel="noopener noreferrer">
                   Join WhatsApp
                 </a>
-              </Button> */}
+              </Button>
               <div className="flex mt-2">
-                {/* <a
-                  rel="noreferrer noopener"
-                  href="https://chat.whatsapp.com/Dcl21sgGDIpHURESSuH0p4"
-                  target="_blank"
-                  className={buttonVariants({
-                    variant: "ghost",
-                    size: "sm",
-                  })}
-                >
-                  <span className="sr-only">WhatsApp icon</span>
-                  <FaWhatsapp className="w-5 h-5" />
-                </a> */}
                 <a
                   rel="noreferrer noopener"
                   href="https://instagram.com/devdisplay"
@@ -85,18 +73,16 @@ const JoinTheCommunity = () => {
               </div>
             </CardFooter>
           </Card>
-          {/* <div className=" p-0 rounded-lg mt-2 text-center">
+          <div className=" p-0 rounded-lg mt-2 text-center">
             <div className="flex flex-col gap-4 items-center justify-center">
               <div className="opacity-60 flex items-center">
-                <FaMapMarkerAlt className="mr-2" />
-                <a href="https://www.google.com/maps/search/?api=1&query=college+name" target="_blank" rel="noopener noreferrer" className="hover:underline">College Name</a>
+                <a href="https://www.google.com/maps/search/?api=1&query=college+name" target="_blank" rel="noopener noreferrer" className="hover:underline">View College Name Campus Community On Map</a>
               </div>
               <div className="opacity-60 flex items-center">
-                <FaEnvelope className="mr-2" />
-                <a href="mailto:college.devdisplay@gmail.com" className="hover:underline">college.devdisplay@gmail.com</a>
+                <a href="mailto:college.devdisplay@gmail.com" className="hover:underline">Reach out us on - college.devdisplay@gmail.com</a>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
       </div>
     </section>
