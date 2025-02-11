@@ -136,7 +136,7 @@ export const Navbar = () => {
           <div className="hidden md:flex gap-2">
             <a
               rel="noreferrer noopener"
-              href="https://github.com/devdisplay"
+              href="https://github.com/devdisplay/DevDisplay-Community-Website"
               target="_blank"
               className={`border ${buttonVariants({ variant: "secondary" })}`}
             >
