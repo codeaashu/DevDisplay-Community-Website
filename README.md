@@ -53,4 +53,4 @@ npm run dev
 
 4. Submit a pull request, and ensure Vecel's preview deployment is passing. Here's a resource on how to write a <a href="https://github.blog/developer-skills/github/how-to-write-the-perfect-pull-request/" target="_blank">perfect pull request</a>. Contributions from this repo will count towards Hacktoberfest.
 
-**Note:** If you wish to add new pages, please add them as new routes under a folder.  
+**Note:** If you wish to add new pages, please add them as new routes under a folder.
